@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋Im Hafid
 
 <!--
 **HafidAlAzhar/HafidAlAzhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+About Me 👨🏻:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨🏻‍💼 My name is Hafid Al Azhar
+🏠 Live in Bandung, Indonesia
+🧍🏻‍♂️ 15 years old
+💻 Software Engineering Student at Assalaam Vocational High School
+🌟 Currently, Phyton is my favorite language 
+🌏 Languages
+🇮🇩 Indonesian
+🇮🇩 Sundanese
+🇬🇧 English
