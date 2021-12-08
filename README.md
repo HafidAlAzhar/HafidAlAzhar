@@ -1,6 +1,6 @@
 ### Hi there 👋Im Hafid
 
-About Me 👨🏻:
+### About Me 👨🏻:
 
 - 👨🏻‍💼 My name is Hafid Al Azhar
 - 🏠 Live in Bandung, Indonesia
@@ -10,7 +10,7 @@ About Me 👨🏻:
 - 🌏 Languages
 -  🇮🇩 Indonesian
 -  🇮🇩 Sundanese
--  🇮🇩 Javanse
+-  🇮🇩 Javanese
 -  🇬🇧 English
 
 ### Languages and Tools 💻
@@ -24,6 +24,26 @@ About Me 👨🏻:
 </p>
 
 ### Connect With Me 📱
-- Facebook: https://facebook.com/hafidal.azhar.9/
-- Instagram: https://instagram.com/hafidalazhr/
-- Twitter: https://twitter.com/hafidalazhar 
+<p align="center">
+<a href="https://facebook.com/hafidal.azhar.9/" rel="nofollow">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="https://twitter.com/hafidalazhar" rel="nofollow">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://instagram.com/hafidalazhr/" rel="nofollow">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://id.quora.com/profile/Hafid-Al-Azhar" rel="nofollow">
+  <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white" />
+</a>
+  <p>
+
+### Statistic :chart_with_upwards_trend:
+![Hafid's GitHub stats](https://github-readme-stats.vercel.app/api?username=HafidAlAzhar&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HafidAlAzhar&layout=compact&theme=tokyonight)]
+
+
+  
+  
+
