@@ -1,6 +1,6 @@
 ### Hi there 👋Im Hafid
 
-### About Me 👨🏻:
+### About Me 👨🏻
 
 - 👨🏻‍💼 My name is Hafid Al Azhar
 - 🏠 Live in Bandung, Indonesia
@@ -23,7 +23,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-### Connect With Me 📱
+### Connect With Me 	:handshake:
 <p align="center">
 <a href="https://facebook.com/hafidal.azhar.9/" rel="nofollow">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
@@ -41,7 +41,7 @@
 
 ### Statistic :chart_with_upwards_trend:
 ![Hafid's GitHub stats](https://github-readme-stats.vercel.app/api?username=HafidAlAzhar&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HafidAlAzhar&layout=compact&theme=tokyonight)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HafidAlAzhar&layout=compact&theme=tokyonight)
 
 
   
