@@ -8,10 +8,10 @@
 - 💻 Software Engineering Student at Assalaam Vocational High School
 - 🌟 Maybe, Phyton is my favorite language 
 - 🌏 Languages
--  🇮🇩 Indonesian
--  🇮🇩 Sundanese
--  🇮🇩 Javanese
--  🇬🇧 English
+- 🇮🇩 Indonesian
+- 🇮🇩 Sundanese
+- 🇮🇩 Javanese
+- 🇬🇧 English
 
 ### Languages and Tools 💻
 <p align="center">
