@@ -2,16 +2,16 @@
 
 ### About Me 👨🏻
 
-- 👨🏻‍💼 My name is Hafid Al Azhar
-- 🏠 Live in Bandung, Indonesia
-- 🧍🏻‍♂️ 15 years old
-- 💻 Software Engineering Student at Assalaam Vocational High School
-- 🌟 Maybe, Phyton is my favorite language 
+- 👨🏻‍💼 My name is <code>Hafid Al Azhar</code>
+- 🏠 Live in <code>Bandung, Indonesia</code>
+- 🧍🏻‍♂️ <code>15</code> years old
+- 💻 <code>Software Engineering</code> Student at <code>Assalaam Vocational High School</code>
+- 🌟 Maybe, <code>Phyton</code> is my favorite language 
 - 🌏 Languages
-- 🇮🇩 Indonesian
-- 🇮🇩 Sundanese
-- 🇮🇩 Javanese
-- 🇬🇧 English
+  - 🇮🇩 Indonesian
+  - 🇮🇩 Sundanese
+  - 🇮🇩 Javanese
+  - 🇬🇧 English
 
 ### Languages and Tools 💻
 <p align="center">
